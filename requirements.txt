@@ -1,0 +1,4 @@
+Flask==2.0.1
+json==2.0.9
+Cassandra-driver==3.25.0
+hashlib
