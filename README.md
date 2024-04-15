@@ -26,12 +26,13 @@ The proposed enhancements to the features a Machine Learning NLP Price Negotiati
 - Deploy the application to a suitable environment for testing or production use.
 
 ## Execution Procedure
-- Open the the Dialogflow in your ```https://dialogflow.cloud.google.com/```
-- Open ```app.py``` and run this command in the terminal ```python app.py```
-- open the command prompt at working directory and type this command ```ngrok http 5000```. A HTTPS link is generated for currently running application copy that and paste in the dialogflow fullfillment feature and save it.
-- Now paste the URL in the brower then our Login Page is opened.
-- Now you are new user then register first then after you can login.
-- Main Page is opened now you can access the complete web page.
+- Initially, extract the project folder.
+- Open Dialogflow in your browser at https://dialogflow.cloud.google.com/.
+- Open app.py and run the command python app.py in the terminal.
+- Open the command prompt at the working directory and enter the command ngrok http 5000. Copy the HTTPS link generated for the currently running application and paste it in the Dialogflow fulfillment feature, then save it.
+- Now, paste the URL in the browser to open our Login Page.
+- If you're a new user, register first, and then log in.
+- The main page is now accessible, allowing you to navigate the complete web page.
 
 ## OUTPUT
 
