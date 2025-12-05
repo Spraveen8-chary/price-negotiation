@@ -1,0 +1,81 @@
+{
+  "id": "aa6c4219-bac7-4e12-8f31-16a75ae6169d",
+  "name": "order.remove-context: ongoing-order",
+  "auto": true,
+  "contexts": [
+    "ongoing-order"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "70d07e94-b68a-43e4-87c1-995bbc082b0b",
+          "name": "product",
+          "required": true,
+          "dataType": "@product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the quantity you want. Ex : remove 2 apple smart watch or I want remove  one samsung curved desktop"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fe915a6c-7c42-4c0a-9159-3fe30abc67d1",
+          "name": "number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the product correctly and cross check our product ID\n\nProduct ID | Product\n402 :        Apple Watch Series 1\n409 :        Xbox Wireless Controller\n403 :        Apple iPhone 7\n411 :        Samsung Curved Desktop\n410 :        Samsung Gear 360\n408 :        DELL LED Desktop\n404 :        iPad Air 2\n407 :        Bose SoundLink Revolve\n405 :        Bang \u0026 Olufsen BeoPlay Speakers\n406 :        Beats Solo3 Bluetooth Headset\n401 :        Samsung Galaxy S9 | S9+\n\nEx: I want to remove one iphone 7"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Removed $product"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

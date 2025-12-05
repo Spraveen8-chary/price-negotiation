@@ -1,0 +1,686 @@
+[
+  {
+    "id": "c0c96080-1c96-4a70-896b-96a4a6c020e8",
+    "data": [
+      {
+        "text": "I\u0027ll go with ",
+        "userDefined": false
+      },
+      {
+        "text": "50000",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efec5f57-2060-4435-b49f-585cf6b104c8",
+    "data": [
+      {
+        "text": "I\u0027ll go with ",
+        "userDefined": false
+      },
+      {
+        "text": "25%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b19cbea5-b704-44af-b10a-eb258441d6fb",
+    "data": [
+      {
+        "text": "my offer is ",
+        "userDefined": false
+      },
+      {
+        "text": "66000",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9645c05f-8ae3-484b-9cbe-22ebb1e161c4",
+    "data": [
+      {
+        "text": "my offer is ",
+        "userDefined": false
+      },
+      {
+        "text": "65500",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b08926ba-48fe-4d9d-832c-1fd62a1070c7",
+    "data": [
+      {
+        "text": "mu offer is ",
+        "userDefined": false
+      },
+      {
+        "text": "1,25,577",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb4ab0bd-6224-40db-9841-4a90d17efbe5",
+    "data": [
+      {
+        "text": "my deal is ",
+        "userDefined": false
+      },
+      {
+        "text": "97234",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e275c3c-9210-421a-8e8d-dbc388bd81ab",
+    "data": [
+      {
+        "text": "my deal is ",
+        "userDefined": false
+      },
+      {
+        "text": "7%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64de3d39-8e05-49fe-b870-9a9fe1b5101e",
+    "data": [
+      {
+        "text": "my plan is ",
+        "userDefined": false
+      },
+      {
+        "text": "6%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d59e63ef-c287-4055-b67d-3b8e1729c82a",
+    "data": [
+      {
+        "text": "i can go with ",
+        "userDefined": false
+      },
+      {
+        "text": "5%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a7f406-74c3-44db-b7ca-1ee3203c7aeb",
+    "data": [
+      {
+        "text": "my offer is ",
+        "userDefined": false
+      },
+      {
+        "text": "5%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40ad9edc-77b9-4801-b82d-a2cddeabe12b",
+    "data": [
+      {
+        "text": "The store is offering a limited-time discount of ",
+        "userDefined": false
+      },
+      {
+        "text": "25%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " on all purchases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10cedf3e-4b4c-4119-9c8e-5f993cf683a8",
+    "data": [
+      {
+        "text": "She completed ",
+        "userDefined": false
+      },
+      {
+        "text": "80%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " of the project ahead of schedule.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17cee89d-c0fb-43c9-83cd-ff4d91089c3b",
+    "data": [
+      {
+        "text": "The population growth in the city has slowed to ",
+        "userDefined": false
+      },
+      {
+        "text": "2%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " per year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5da31c27-5624-4274-93af-6ad440d15eee",
+    "data": [
+      {
+        "text": "The sale offers up to a ",
+        "userDefined": false
+      },
+      {
+        "text": "40%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " discount on selected items.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11fa39e2-a73b-467c-8a3b-bfb925f5e707",
+    "data": [
+      {
+        "text": "he company aims to reduce its carbon emissions by ",
+        "userDefined": false
+      },
+      {
+        "text": "50%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " within the next year.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "338872d2-82a2-49fe-975f-07c073a9e3e3",
+    "data": [
+      {
+        "text": "He invested ",
+        "userDefined": false
+      },
+      {
+        "text": "30%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " of his savings in the stock market.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99b39f53-d511-4bea-948f-095badae8cdd",
+    "data": [
+      {
+        "text": "\"The price increased by ",
+        "userDefined": false
+      },
+      {
+        "text": "15%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " after the recent adjustments.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45e44d09-9af9-4cf6-9fba-fec46e641528",
+    "data": [
+      {
+        "text": "She scored ",
+        "userDefined": false
+      },
+      {
+        "text": "90%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " in the exam, an outstanding achievement.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85cda33f-17c4-4e69-a136-f6be5566182e",
+    "data": [
+      {
+        "text": "The interest rate on the loan is ",
+        "userDefined": false
+      },
+      {
+        "text": "5%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": " annually.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e3e5a0-b9b5-4114-99aa-5a1067eef520",
+    "data": [
+      {
+        "text": "The discount offered is ",
+        "userDefined": false
+      },
+      {
+        "text": "20%",
+        "meta": "@sys.percentage",
+        "alias": "percentage",
+        "userDefined": true
+      },
+      {
+        "text": ", which makes this an excellent deal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d57879ac-759c-4e4c-b383-46b9855241f7",
+    "data": [
+      {
+        "text": "Can the price marked at ₹",
+        "userDefined": false
+      },
+      {
+        "text": "83,023",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " be reconsidered for a better deal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4690cb54-a590-4f99-970c-5a3bcd8ee218",
+    "data": [
+      {
+        "text": "The ₹",
+        "userDefined": false
+      },
+      {
+        "text": "5679.34",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " price is good, but I was wondering if there\u0027s room for negotiation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dd3af8b-c32a-4391-b46f-efa945e401e9",
+    "data": [
+      {
+        "text": "For the ₹",
+        "userDefined": false
+      },
+      {
+        "text": "83,453",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " product, can we explore a potential discount?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "517d9edc-2386-4684-a637-78dca417aada",
+    "data": [
+      {
+        "text": "I can go with ",
+        "userDefined": false
+      },
+      {
+        "text": "4597.45",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc5f5a2-c4c4-47c6-a4e9-3080db615398",
+    "data": [
+      {
+        "text": "my budget is ",
+        "userDefined": false
+      },
+      {
+        "text": "68,924",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1f556fb-a2b1-443a-b057-5305e22faaa8",
+    "data": [
+      {
+        "text": "my offer is ",
+        "userDefined": false
+      },
+      {
+        "text": "89723",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43339b88-ec45-4ed9-89ea-0ae4f1876079",
+    "data": [
+      {
+        "text": "The ₹",
+        "userDefined": false
+      },
+      {
+        "text": "83023",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " cost is beyond my budget. Any chance for a more affordable price?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a71b310a-010c-434b-beaf-d22fc64dc49e",
+    "data": [
+      {
+        "text": "\u0027m a regular customer. Is there a better price for the ₹",
+        "userDefined": false
+      },
+      {
+        "text": "5679.34",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afc68cd0-b04c-41de-8474-73fbeab0377c",
+    "data": [
+      {
+        "text": "I\u0027m comparing prices and the ₹",
+        "userDefined": false
+      },
+      {
+        "text": "83,453",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " quote seems higher. Can we work something out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38bae48f-0ca9-49a5-beb6-5b49b8ffbb32",
+    "data": [
+      {
+        "text": "I\u0027m interested in the ₹",
+        "userDefined": false
+      },
+      {
+        "text": "5,679.34",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " product. Could we discuss a discount?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efd17b0e-7719-4c8c-ad0d-920762bd4e5c",
+    "data": [
+      {
+        "text": "The ₹",
+        "userDefined": false
+      },
+      {
+        "text": "83,453",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " price seems a bit high. Any chance of adjusting it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17754d0-3be7-46b8-9cda-3d97f1819d9c",
+    "data": [
+      {
+        "text": "Can we negotiate the cost marked at ₹",
+        "userDefined": false
+      },
+      {
+        "text": "83,023",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " for a better deal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

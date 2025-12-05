@@ -1,0 +1,35 @@
+{
+  "id": "daea9c34-e90a-41f5-bbe8-9824e30eb246",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, I didn\u0027t understand. You can say \u0027New Order\u0027 .                                                                        \nAlso, in a new order, please mention only items from our available menu: \n( PRODUCT ID : PRODUCT )\n( 402 : Apple Watch Series 1 )          \n( 409 : Xbox Wireless Controller )     \n( 403 : Apple iPhone 7 )               \n( 411 : Samsung Curved Desktop )       \n( 410 : Samsung Gear 360 )             \n( 408 : DELL LED Desktop )             \n( 404 : iPad Air 2 )                   \n( 407 : Bose SoundLink Revolve )       \n( 405 : Bang \u0026 Olufsen BeoPlay Speakers )\n( 406 : Beats Solo3 Bluetooth Headset )\n( 401 : Samsung Galaxy S9 | S9+ )\n\nPlease specify the quantity of each item for the order.\nFor example: \"One ( 411 ) and 2 ( 406 )\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "f0494e1f-da8b-4bc4-a32f-81062d6c26fe",
+  "name": "new.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 6
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Specify items and quantities. \nproducts and their ids \n( PRODUCT ID : PRODUCT )\n( 402 : Apple Watch Series 1 )          \n( 409 : Xbox Wireless Controller )     \n( 403 : Apple iPhone 7 )               \n( 411 : Samsung Curved Desktop )       \n( 410 : Samsung Gear 360 )             \n( 408 : DELL LED Desktop )             \n( 404 : iPad Air 2 )                   \n( 407 : Bose SoundLink Revolve )       \n( 405 : Bang \u0026 Olufsen BeoPlay Speakers )\n( 406 : Beats Solo3 Bluetooth Headset )\n( 401 : Samsung Galaxy S9 | S9+ )\nFor example, you can say, \" I\u0027d like to order two (403) and three (407) for a tech setup.\"",
+            "products and their ids \n( PRODUCT ID : PRODUCT )\n( 402 : Apple Watch Series 1 )          \n( 409 : Xbox Wireless Controller )     \n( 403 : Apple iPhone 7 )               \n( 411 : Samsung Curved Desktop )       \n( 410 : Samsung Gear 360 )             \n( 408 : DELL LED Desktop )             \n( 404 : iPad Air 2 )                   \n( 407 : Bose SoundLink Revolve )       \n( 405 : Bang \u0026 Olufsen BeoPlay Speakers )\n( 406 : Beats Solo3 Bluetooth Headset )\n( 401 : Samsung Galaxy S9 | S9+ )\n\nYou can specify like this \"I\u0027m interested in an 1 iPad Air 2 and a 1 Samsung Gear 360 for my creative projects.",
+            "products and their ids \n( PRODUCT ID : PRODUCT )\n( 402 : Apple Watch Series 1 )          \n( 409 : Xbox Wireless Controller )     \n( 403 : Apple iPhone 7 )               \n( 411 : Samsung Curved Desktop )       \n( 410 : Samsung Gear 360 )             \n( 408 : DELL LED Desktop )             \n( 404 : iPad Air 2 )                   \n( 407 : Bose SoundLink Revolve )       \n( 405 : Bang \u0026 Olufsen BeoPlay Speakers )\n( 406 : Beats Solo3 Bluetooth Headset )\n( 401 : Samsung Galaxy S9 | S9+ )\n\nOk, starting a new order. You can say things like \" I\u0027m interested in three (402) and two (404) devices for fitness and daily tasks.\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

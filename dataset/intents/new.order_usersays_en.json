@@ -1,0 +1,132 @@
+[
+  {
+    "id": "245686dc-c15f-41c7-b1ac-7a2ebe8bf917",
+    "data": [
+      {
+        "text": "generate new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c90e9cc8-4372-4f25-87e2-fb89678c9915",
+    "data": [
+      {
+        "text": "neworder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6215f59-242f-43bf-b4c1-00f2e8da25bf",
+    "data": [
+      {
+        "text": "Start a fresh order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec6c0ecb-fda9-4b2c-895e-7b765d97279a",
+    "data": [
+      {
+        "text": "I\u0027d like to create a new order, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8467684-64a0-495d-bb45-3bc557cef6bd",
+    "data": [
+      {
+        "text": "I want to place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc50b9e2-c124-47e7-9e72-0bd78b9b344a",
+    "data": [
+      {
+        "text": "get an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43ee9e9e-ddba-42e8-bc39-2c89867004db",
+    "data": [
+      {
+        "text": "place a orderg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cb778df-65c5-47f1-8b5d-06d62d9a906f",
+    "data": [
+      {
+        "text": "place a order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30def3b7-9a45-4efd-ba69-93b3d4bf780a",
+    "data": [
+      {
+        "text": "place an new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae6105dc-8705-466d-bdbc-0281aaf8aa43",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

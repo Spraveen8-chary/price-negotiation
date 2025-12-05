@@ -1,0 +1,521 @@
+[
+  {
+    "id": "85009251-53d2-40a0-8997-9acbf7904890",
+    "data": [
+      {
+        "text": "Take ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "403",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " out of my shopping cart, please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15894929-148f-44e7-ba75-5f5fa818ea50",
+    "data": [
+      {
+        "text": "Please remove ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Xbox Wireless Controllers",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59e62542-61d6-47c1-b6dd-b0a4d6e92d6d",
+    "data": [
+      {
+        "text": "Remove ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Apple Watch Series 1",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "(402)",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my shopping cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46f852b2-1e6e-4934-a566-8d8eca99e7c4",
+    "data": [
+      {
+        "text": "Remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "iPad Air 2",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "(404)",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my cart, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39697602-18bb-42c2-8120-af4ede2c0e2d",
+    "data": [
+      {
+        "text": "I\u0027d like to remove ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bose SoundLink Revolve speakers",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "  from my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8119af34-8ab9-4e50-a47b-8c47fbaa6538",
+    "data": [
+      {
+        "text": "Take ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "(410)",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " out of my shopping cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86a543cd-d3ac-48e5-9560-8069e6422b00",
+    "data": [
+      {
+        "text": "Please exclude ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Beats Solo3 Bluetooth Headset",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "406",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b94808c-8a10-4e1d-a254-02506a0dd99b",
+    "data": [
+      {
+        "text": "I want to remove ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "DELL LED Desktop",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "(408)",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c18b5165-aa79-47c3-be4d-19b05ad0da99",
+    "data": [
+      {
+        "text": "Take out ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Apple iPhone 7",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "403",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": ") out of my shopping cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f20caa5-e5f7-4bbf-939e-600e72ae0af0",
+    "data": [
+      {
+        "text": "Remove ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Xbox Wireless Controllers",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "409",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c60924cc-eb3a-4962-9069-526db2eac753",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Samsung Curved Desktop",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "(411)",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04805314-a727-473d-94ca-1195bc71695b",
+    "data": [
+      {
+        "text": "Take out ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Apple Watch Series 1",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "(402)",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c162172-cb86-4bb2-bb8c-fc433c11e893",
+    "data": [
+      {
+        "text": "Take ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Apple Watch Series 1",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "(402)",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
